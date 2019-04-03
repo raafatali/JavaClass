@@ -15,3 +15,5 @@ public class Task2 {
 				System.out.println(day.charAt(day.length()/2));
 			}
 		}}}
+
+
