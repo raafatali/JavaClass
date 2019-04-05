@@ -27,23 +27,23 @@ public class Phone {
         
         Phone p2 = new Phone();
         p2.Type="Galexy";
-        p2.brand="Samsung";
         p2.Touch=true;
         p1.keyboard=true;
         p2.screen=1;
         p2.ram=16;
+        p2.brand="Samsung";
         
         p2.watchMoives();
         p2.playGames();
         p2.playMusic();
         
         Phone p3=new Phone();
-        p2.Type="Plus";
-        p2.brand="Nokia";
-        p2.Touch=false;
-        p1.keyboard=true;
-        p2.screen=1;
-        p2.ram=24;
+        p3.Type="Plus";
+        p3.Touch=false;
+        p3.keyboard=true;
+        p3.screen=1;
+        p3.ram=24;
+        p3.brand="Nokia";
         
         p3.watchMoives();
     	p3.playGames();

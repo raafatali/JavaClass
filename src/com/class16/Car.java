@@ -2,7 +2,6 @@ package com.class16;
 
 public class Car {
 	
-	
 	String make, model, color;
 	int door, wheels;
 	
@@ -49,3 +48,18 @@ public class Car {
 	}
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
