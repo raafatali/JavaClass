@@ -1,7 +1,7 @@
 package com.Practice;
 
 
-	public class Parents {
+	public class Parents1 {
 		
 		String gender,hairColor,body;
 		int legs, hands ,moles;
@@ -9,7 +9,7 @@ package com.Practice;
 		
 		public static void main(String [] args) {
 			
-			Parents mom=new Parents();
+			Parents1 mom=new Parents1();
 			mom.gender="femail";
 			mom.hairColor="brown";
 			mom.body="chubby";

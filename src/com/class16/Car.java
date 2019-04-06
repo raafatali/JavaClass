@@ -36,15 +36,15 @@ public class Car {
 	}
 	
 	void drive() {
-		System.out.println("Car can drive");
+		System.out.println(make+" Car can drive");
 	}
 	
 	void reverse() {
-		System.out.println("Car can reverse");
+		System.out.println(make+" Car can reverse");
 	}
 	
 	void stop() {
-		System.out.println("Car can stop");
+		System.out.println(make+" Car can stop");
 	}
 	
 }
