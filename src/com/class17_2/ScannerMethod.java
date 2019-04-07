@@ -1,31 +1,43 @@
 package com.class17_2;
-	
-		import java.util.Scanner;
 
-		public class ScannerMethod {
+import java.util.Scanner;
 
+public class ScannerMethod {
 
-			public static void main(String[] args) {
-				ScannerMethod obj = new ScannerMethod();
-				Scanner sc = new Scanner(System.in);
-				
-				int a = sc.nextInt();
-				
-				int b = sc.nextInt();
-				System.out.println(obj.sum(a, b));
-//				obj.sum(12, 13);
-//				obj.sum(100, 100);
+	public static void main(String[] args) {
 
-			}
+		ScannerMethod obj = new ScannerMethod();
 
-		public	int sum(int x, int y) {
-				System.out.println(x + y); // with return type 
-				
-				return x+y;
-			}
+		Scanner scan = new Scanner(System.in);
 
-			void sub() {
-				int a = 10, b = 12;
-				System.out.println(a + b);
-			}
-		}
+		int a = scan.nextInt();
+		int b = scan.nextInt();
+		int d = 12;
+
+		int c = obj.sum(d, 123);
+		System.out.println(obj.sum(a, b));
+
+//			        obj.sum(12, 13);
+//			        obj.sum(100, 100);
+//			        
+//			        obj.sub();
+//			        obj.sub();
+
+	}
+
+	public int sum(int a, int b) {
+
+//			        System.out.println(x +y);
+
+		return b + a;
+
+	}
+
+	void sub() {
+		int a = 10, b = 12;
+
+		System.out.println(a - b);
+
+	}
+
+}
