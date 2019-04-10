@@ -1,6 +1,5 @@
 package com.class17;
 
-
 public class NoMainMethod {
 	
 			//methods and variables are member of the class

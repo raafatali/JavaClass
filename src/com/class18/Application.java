@@ -6,7 +6,6 @@ public class Application {
 
         Animals anim = new Animals();
         
-        Animals.
         System.out.println("This is anim");
         
         System.out.println(anim.age);
