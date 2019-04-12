@@ -15,9 +15,6 @@ public class Application1 {
 
 
 	 }}
-	
-	
-	
 
 //import java.util.Scanner;
 //public class AppCalculator {

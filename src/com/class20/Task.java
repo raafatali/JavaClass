@@ -1,6 +1,5 @@
 package com.class20;
 
-
 public class Task {
 
 	public static void main(String[] args) {
