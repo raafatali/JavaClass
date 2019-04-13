@@ -11,10 +11,10 @@ public class Practice {
 			System.out.println(array[i]);
 		}
 
-		for (String list : array) {
-			System.out.println(list);
+//		for (String list : array) {
+//			System.out.println(list);
 
-		}}
+		}
 
 	private String[] word(String name) {
 

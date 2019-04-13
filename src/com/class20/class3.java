@@ -12,10 +12,10 @@ public class class3 {
 	String[] array=obj.word("Have a good night students");
     for (int i=0; i<array.length; i++) {
         System.out.println(array[i]);
-    }
-    System.out.println("--------------------------");
-    for (String word:array) {
-        System.out.println(word);
+//    }
+//    System.out.println("--------------------------");
+//    for (String word:array) {
+//        System.out.println(word);
     }}
     
 
