@@ -1,8 +1,8 @@
 package com.class22;
 
-public class Child2 {
+public class Child2 extends Parent {
 
-String hairType="";
+String hairType="straight";
 	
 	public static void main(String[] args) {
 		
@@ -14,8 +14,6 @@ String hairType="";
 		childObject.canSwim();
 		
 		Parent parentObject=new Parent();
-		//parentObject.hairType --> not accessible in Parent Class
-		//parentObject.playTennis()--> not accessible in Parent Class
 		
 	}
 	
