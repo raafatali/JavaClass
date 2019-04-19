@@ -9,4 +9,4 @@ public class Parent {
 	public void sing() {
 		System.out.println("We can sing");
 	}
-}
+} 

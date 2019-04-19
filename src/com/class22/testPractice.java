@@ -15,7 +15,7 @@ public class testPractice extends Practice {
 		
 		testPractice obj1= new testPractice();
 		
-	}
+	} 
 	
 	public void sleep() {
 	

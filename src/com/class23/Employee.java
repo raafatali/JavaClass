@@ -2,10 +2,10 @@ package com.class23;
 
 public class Employee {
 	
-	public static String department="IT";
+	public static String department="IT"; 
 	int salary;//default
 	protected int salary1;//protected
-
+ 
 	public void getPaid() {
 		System.out.println("Employee get's paid " + salary);
 	}

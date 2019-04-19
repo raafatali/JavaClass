@@ -7,4 +7,4 @@ public class StudentTest {
 		Student student1=new Student("Raafat", 90, 85, 47);
 		student1.getAverage();
 	}
-}
+} 

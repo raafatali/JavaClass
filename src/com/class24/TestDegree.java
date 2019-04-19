@@ -10,6 +10,6 @@ public class TestDegree {
 		degree.getDegree();
 		undergraduate.getDegree();
 		postgraduate.getDegree();
-
+ 
 	}
 }

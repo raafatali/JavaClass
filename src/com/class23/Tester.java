@@ -6,4 +6,4 @@ public class Tester extends ScrumTeam{
 		System.out.println("Tester can test");
 	}
 	
-}
+}  

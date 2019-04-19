@@ -4,10 +4,10 @@ public class Bank {
 	public int chargeInterest() {
 		return 0;
 	}
-}
+} 
 //1 child class
 class BOA extends Bank{
-	@Override//annotation
+	@Override//annotation 
 	public int chargeInterest() {
 		return 2;
 	}

@@ -8,7 +8,7 @@ package com.class24;
 
 public class Degree {
 
-
+ 
 
 		public void getDegree() {//overriden method
 			System.out.println("I got a degree");

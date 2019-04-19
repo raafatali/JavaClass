@@ -13,4 +13,4 @@ public class Class {
 		Class() {
 			System.out.println("Costructor with no parameters");
 		
-		}}
+		}} 

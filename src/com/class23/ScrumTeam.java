@@ -12,4 +12,4 @@ public class ScrumTeam extends Employee{
 	public void attendScrumMeetings() {
 		System.out.println("Scrum Team attends "+ceremonies);
 	}
-}
+} 

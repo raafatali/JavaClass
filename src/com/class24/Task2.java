@@ -20,7 +20,7 @@ public class Task2 {
 	 public static void main(String[] args) {
 		
 	Task2 obj= new Task2();
-	 obj.getInfo();
+	 obj.getInfo();  
 	 obj.getInfo(11,2);
 	 obj.getInfo("Olga");
 	

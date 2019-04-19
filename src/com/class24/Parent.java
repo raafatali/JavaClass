@@ -9,5 +9,5 @@ public class Parent {
 	public void work() {
 		System.out.println("Parents work");
 	}
-	
-}
+	 
+} 

@@ -1,6 +1,6 @@
 package com.class23;
 
-public class Addition {
+public class Addition { 
 	//1. overloading methods by changing number of parameters
 	public void add(int a, int b) {
 		System.out.println("Method to add 2 integers");

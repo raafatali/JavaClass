@@ -18,7 +18,7 @@ public class Student {
 		grade2=b;
 		grade3=c;
 	}
-	
+	 
 	public void getAverage() {
 		int average=(grade1+grade2+grade3)/3;
 		System.out.println("My name is "+studentName+" and my average grade is "+average);

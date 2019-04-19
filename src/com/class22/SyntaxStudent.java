@@ -23,4 +23,4 @@ public class SyntaxStudent {
 		System.out.println(details);
 	}
 
-}
+} 

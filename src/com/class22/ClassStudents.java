@@ -19,7 +19,7 @@ public class ClassStudents {
 	
 	int findAverage(int a, int b, int c) {
 		
-		return(a+b+c)/3;
+		return(a+b+c)/3; 
 	
 	
 	

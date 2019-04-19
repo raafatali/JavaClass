@@ -22,8 +22,8 @@ public class Task1 {
 		
 	 Task1 obj= new Task1();
 	 obj.display(10);
-	 obj.display(11,2);
+	 obj.display(11,2); 
 	 obj.display("Raafat");
 	
 	
-	 }}
+	 }} 

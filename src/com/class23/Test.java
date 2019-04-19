@@ -1,6 +1,6 @@
 package com.class23;
 
-public class Test {
+public class Test { 
 
 	public static void main(String[] args) {
 		System.out.println("---Creating Employee object---");
@@ -20,7 +20,7 @@ public class Test {
 		System.out.println("---Creating Developer object---");
 		Developer dev = new Developer();
 		dev.salary = 120000;
-		dev.getPaid();
+		dev.getPaid(); 
 		dev.artifacts = "Sprit backlog";
 		dev.ceremonies = "Sprit grooming, Sprint Planning, Daily StandUp, Sprint Demo, Sprint Retro";
 		dev.workOnArtifacts();

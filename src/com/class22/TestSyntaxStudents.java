@@ -21,5 +21,5 @@ public class TestSyntaxStudents {
 
 		SyntaxStudent student2 = new SyntaxStudent("Mustafa", "Ozturk");
 		student2.getStudentDetails();
-	}
+	} 
 }

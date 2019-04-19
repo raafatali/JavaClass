@@ -20,4 +20,4 @@ String hairType="straight";
 	public void canSwim() {
 		System.out.println("Child 2 can swim");
 	}
-}
+} 

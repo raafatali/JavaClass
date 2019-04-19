@@ -18,4 +18,4 @@ public class Task {
 	public void getArea(int a, int b, int c) {
 		System.out.println("the area of a box is "+(a*b*c));
 	}
-}
+}  

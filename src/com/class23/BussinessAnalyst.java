@@ -6,4 +6,5 @@ public class BussinessAnalyst extends ScrumTeam{
 		System.out.println("Bussiness analyst write user stories");
 	}
 	
-}
+} 
+ 
