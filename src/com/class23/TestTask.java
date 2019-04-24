@@ -8,4 +8,4 @@ public class TestTask {
 		obj.getArea(10, 20);
 		obj.getArea(10);
 	}
-} 
+}  

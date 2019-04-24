@@ -10,4 +10,4 @@ public class Parent {
 		System.out.println("Parents work");
 	}
 	 
-} 
+}  

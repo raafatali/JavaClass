@@ -14,7 +14,7 @@ public class Testing {
 		Child child=new Child();
 		child.love();
 		child.cry();
-		child.work(); 
+		child.work();  
 		
 		//Child obj1=new Parent();not possible
 		//type casting

@@ -13,4 +13,5 @@ public class WaterFallTeam extends Employee {
 		wt.test();//available cause it is protected
 		//wt.test1();NOT available cause it is default
 	}
-}
+} 
+

@@ -7,7 +7,7 @@ public class BankTest {
 		Bank bank=new Bank();
 		BOA boa=new BOA();
 		PNC pnc=new PNC();
-		
+		 
 		int interestRate;
 		
 		interestRate=bank.chargeInterest();

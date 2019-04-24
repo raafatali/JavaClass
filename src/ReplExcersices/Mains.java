@@ -12,7 +12,7 @@ public class Mains {
 
 	public static void main(String[] args) {
 		age = 40;
-		name = "John";
+		name = "John"; 
 		display();
 	}
 }

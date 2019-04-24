@@ -3,7 +3,7 @@ package com.class24;
 public class Task1 {
 	
 //2. Create 1 class with a static method that has 3 overloaded forms. 
-//Then call each overloaded method with specificarguments and observe result.
+//Then call each overloaded method with specific arguments and observe result.
 
 
 	 public static void display (int a) {

@@ -19,5 +19,5 @@ public class Employee {
 	}
 	void test1() {
 		System.out.println("I am a default method");
-	}
-}
+	} 
+} 

@@ -12,4 +12,4 @@ public class TestDegree {
 		postgraduate.getDegree();
  
 	}
-}
+} 
