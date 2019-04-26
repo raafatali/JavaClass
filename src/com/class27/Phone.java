@@ -36,3 +36,24 @@ class Samsung extends Phone{
 	}
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

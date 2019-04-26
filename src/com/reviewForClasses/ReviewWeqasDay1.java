@@ -1,4 +1,4 @@
-package com.reviewForClass7;
+package com.reviewForClasses;
 
 public class ReviewWeqasDay1 {
 
