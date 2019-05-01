@@ -39,21 +39,3 @@ class Samsung extends Phone{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

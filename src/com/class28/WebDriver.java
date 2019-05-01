@@ -6,13 +6,13 @@ package com.class28;
 
 public interface WebDriver {
 
-	public void openBrowser();
+	 void openBrowser();
 
-	public void closeBrowser();
+	 void closeBrowser();
 
-	public void maximizeWindow();
+	 void maximizeWindow();
 
-	public void findElement();
+	 void findElement();
 
 }
 
